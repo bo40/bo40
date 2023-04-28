@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bo40
 - 👀 I’m interested in writing programs for my communities.
-- 🌱 I’m currently learning computer science at Graduate School of Informatics, Kyoto University.
+- 🌱 I've learned computer science at Graduate School of Informatics, Kyoto University.
+- ✨ I'm a　rookie engineer.
 - 📫 Email: bo40.git@google.com
 
 <!---
