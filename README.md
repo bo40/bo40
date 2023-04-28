@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bo40
 - 👀 I’m interested in writing programs for my communities.
 - 🌱 I've learned computer science at Graduate School of Informatics, Kyoto University.
-- ✨ I'm a　rookie engineer.
+- ✨ I'm a rookie engineer.
 - 📫 Email: bo40.git@google.com
 
 <!---
